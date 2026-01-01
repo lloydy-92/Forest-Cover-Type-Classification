@@ -58,3 +58,9 @@ Contributions, suggestions, and improvements are welcome and encouraged! If you 
 
 ## Author
 **Sam Lloyd**, sammy.lloyd@live.com, *github.com/lloydy-92*
+
+## Acknowledgements
+- Codecademy Data Science Path for providing structured guidance on this project, as well as the dataset.
+- The open-source community for libraries like ```pandas```, ```matplotlib```, and ```seaborn```.
+--------------------------------------------------------------------------------------------------------------------------
+“*What the forest conceals, data can quietly reveal.*”
